@@ -1,0 +1,592 @@
+[
+  {
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-reasoning/",
+    "test_type": "A",
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Measures ability to understand and analyse numerical data and make correct decisions. Suitable for roles requiring data interpretation and quantitative reasoning.",
+    "duration_minutes": 18,
+    "job_levels": [
+      "Mid-Professional",
+      "Manager",
+      "Director"
+    ]
+  },
+  {
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-reasoning/",
+    "test_type": "A",
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Measures ability to understand and evaluate written information and draw logical conclusions. Used for roles requiring communication and written comprehension.",
+    "duration_minutes": 18,
+    "job_levels": [
+      "Mid-Professional",
+      "Manager",
+      "Director"
+    ]
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning/",
+    "test_type": "A",
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Measures ability to identify patterns in abstract information and solve novel problems. Ideal for technical and analytical roles.",
+    "duration_minutes": 18,
+    "job_levels": [
+      "Mid-Professional",
+      "Entry-Level"
+    ]
+  },
+  {
+    "name": "Verify Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+    "test_type": "A",
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Measures ability to draw logical conclusions from given information. Suitable for structured problem solving roles.",
+    "duration_minutes": 18,
+    "job_levels": [
+      "Mid-Professional",
+      "Entry-Level"
+    ]
+  },
+  {
+    "name": "Verify Interactive - General Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-general-ability/",
+    "test_type": "A",
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Adaptive cognitive ability test combining numerical, verbal, and inductive reasoning for professional and managerial roles.",
+    "duration_minutes": 36,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Manager"
+    ]
+  },
+  {
+    "name": "Verify G+ General Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-plus-general-ability/",
+    "test_type": "A",
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Short adaptive general cognitive ability assessment for high-volume entry-level hiring.",
+    "duration_minutes": 16,
+    "job_levels": [
+      "Entry-Level"
+    ]
+  },
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/",
+    "test_type": "P",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Occupational Personality Questionnaire measuring 32 dimensions of workplace personality and behavioural style. Predicts performance across professional and managerial roles.",
+    "duration_minutes": 25,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Manager",
+      "Director",
+      "Executive"
+    ]
+  },
+  {
+    "name": "Motivation Questionnaire (MQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mq/",
+    "test_type": "P",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses 18 dimensions of motivation to understand what energises and drives an individual at work.",
+    "duration_minutes": 25,
+    "job_levels": [
+      "Mid-Professional",
+      "Manager",
+      "Director",
+      "Executive"
+    ]
+  },
+  {
+    "name": "General Sales Aptitude (GSA)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-sales-aptitude/",
+    "test_type": "P",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses personality traits relevant to sales performance including persuasiveness, resilience, and customer orientation.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures core Java 8 knowledge including OOP, syntax, collections, streams, and standard libraries for software developer roles.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ]
+  },
+  {
+    "name": "Core Java (Advanced Level)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Advanced Java covering concurrency, JVM internals, design patterns, and enterprise-level concepts.",
+    "duration_minutes": 25,
+    "job_levels": [
+      "Mid-Professional",
+      "Manager"
+    ]
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses Python programming including syntax, data structures, OOP, and standard libraries for data science, automation, and backend roles.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests JavaScript fundamentals, DOM manipulation, async programming, and ES6+ features for front-end and full-stack roles.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "React (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/react-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates React.js knowledge including component design, hooks, state management, and lifecycle for front-end developer roles.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "Angular (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angular-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests Angular knowledge including components, modules, services, routing, and RxJS for front-end developer roles.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "C# (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-sharp-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses C# proficiency including OOP, LINQ, async/await, and .NET fundamentals for software developer roles.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "C++ (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-plus-plus-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests C++ knowledge including memory management, STL, OOP, and modern C++ features.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates SQL querying, joins, aggregations, subqueries, and database design for data analyst and backend developer roles.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "Microsoft SQL Server (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-sql-server-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests SQL Server knowledge including T-SQL, stored procedures, indexing, and database administration.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "Data Analysis (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-analysis-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates data analysis concepts including statistical thinking, data wrangling, visualisation, and insight generation.",
+    "duration_minutes": 25,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "Machine Learning (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/machine-learning-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests machine learning concepts including supervised and unsupervised learning, model evaluation, feature engineering, and common algorithms.",
+    "duration_minutes": 25,
+    "job_levels": [
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/html-css-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses HTML5 and CSS3 knowledge including semantic markup, responsive design, flexbox, and grid for front-end roles.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/php-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests PHP knowledge including syntax, OOP, web integration, and frameworks for back-end web developer roles.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": ".NET Framework (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dot-net-framework-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates .NET ecosystem knowledge including ASP.NET, Entity Framework, and development patterns.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests Agile methodologies including Scrum, Kanban, sprint planning, and best practices for software development teams.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Mid-Professional",
+      "Manager"
+    ]
+  },
+  {
+    "name": "Project Management (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/project-management-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses project management methodologies, scheduling, resource management, risk, and stakeholder communication.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Mid-Professional",
+      "Manager"
+    ]
+  },
+  {
+    "name": "Microsoft Excel (Advanced)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-2016-advanced/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests advanced Excel including pivot tables, macros, complex formulas, and data analysis for analyst and finance roles.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "Accounting (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounting-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests foundational accounting knowledge including financial statements, bookkeeping, and basic financial analysis.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-accounting-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates advanced financial accounting including GAAP, financial reporting, and analysis for finance professional roles.",
+    "duration_minutes": 25,
+    "job_levels": [
+      "Mid-Professional",
+      "Manager"
+    ]
+  },
+  {
+    "name": "Business Analysis (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-analysis-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests business analysis concepts including requirements gathering, process mapping, and stakeholder management.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "Situational Judgement Test - Manager",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/situational-judgement-for-managers/",
+    "test_type": "S",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Presents realistic managerial scenarios to assess decision-making and judgement for people management roles.",
+    "duration_minutes": 25,
+    "job_levels": [
+      "Manager"
+    ]
+  },
+  {
+    "name": "Situational Judgement Test - Graduate",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/situational-judgement-test-graduate/",
+    "test_type": "S",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses judgement and decision-making in workplace scenarios for graduate and entry-level professional roles.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Entry-Level"
+    ]
+  },
+  {
+    "name": "Customer Service Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-contact-centre/",
+    "test_type": "B",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses customer service skills, communication style, and situational judgement for contact centre and customer-facing roles.",
+    "duration_minutes": 25,
+    "job_levels": [
+      "Entry-Level"
+    ]
+  },
+  {
+    "name": "Retail Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/retail-solution/",
+    "test_type": "B",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates personality traits and situational judgement for customer-facing retail roles including service orientation and teamwork.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Entry-Level"
+    ]
+  },
+  {
+    "name": "Leadership Report (OPQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-report-opq/",
+    "test_type": "P",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Uses OPQ32 data to evaluate leadership potential and style across key competencies for senior roles.",
+    "duration_minutes": 25,
+    "job_levels": [
+      "Manager",
+      "Director",
+      "Executive"
+    ]
+  },
+  {
+    "name": "Sales Report (OPQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-report-opq/",
+    "test_type": "P",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Uses OPQ32 data to evaluate behavioural styles relevant to sales success including drive, customer focus, and influencing ability.",
+    "duration_minutes": 25,
+    "job_levels": [
+      "Mid-Professional",
+      "Manager"
+    ]
+  },
+  {
+    "name": "Verify Calculation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-calculation/",
+    "test_type": "A",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures basic numerical calculation ability for clerical and administrative roles where accuracy with numbers is essential.",
+    "duration_minutes": 10,
+    "job_levels": [
+      "Entry-Level"
+    ]
+  },
+  {
+    "name": "Verify Checking",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-checking/",
+    "test_type": "A",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses accuracy and attention to detail when checking written and numerical information for administrative roles.",
+    "duration_minutes": 10,
+    "job_levels": [
+      "Entry-Level"
+    ]
+  },
+  {
+    "name": "Graduate/IPAT General Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-ipat/",
+    "test_type": "A",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "General cognitive ability test for graduate and professional-level roles measuring verbal, numerical, and abstract reasoning.",
+    "duration_minutes": 30,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "Numerical Reasoning for Managers",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/numerical-reasoning-for-managers/",
+    "test_type": "A",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Advanced numerical reasoning for managerial and executive candidates requiring strong financial decision-making skills.",
+    "duration_minutes": 25,
+    "job_levels": [
+      "Manager",
+      "Director",
+      "Executive"
+    ]
+  },
+  {
+    "name": "Administrative Professional Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "test_type": "B",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Combines ability and personality measures for administrative roles including attention to detail, organisation, and service orientation.",
+    "duration_minutes": 30,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "Supply Chain Management (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/supply-chain-management-new/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests supply chain concepts including procurement, logistics, inventory management, and operations planning.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Mid-Professional",
+      "Manager"
+    ]
+  },
+  {
+    "name": "Call Centre Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/call-centre-solution/",
+    "test_type": "B",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates skills and personality traits for call centre roles including communication, empathy, and composure under pressure.",
+    "duration_minutes": 25,
+    "job_levels": [
+      "Entry-Level"
+    ]
+  },
+  {
+    "name": "Microsoft Word (Intermediate)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-2016-intermediate/",
+    "test_type": "K",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates intermediate Microsoft Word skills for administrative and office-based roles.",
+    "duration_minutes": 15,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "Workplace Safety Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-solution/",
+    "test_type": "B",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses safety awareness, rule compliance, and risk-taking attitudes for roles in safety-critical environments.",
+    "duration_minutes": 20,
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ]
+  },
+  {
+    "name": "Technology Professional Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-solution/",
+    "test_type": "B",
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Combines cognitive and personality measures for technology professional roles including analytical thinking and collaborative working.",
+    "duration_minutes": 30,
+    "job_levels": [
+      "Mid-Professional"
+    ]
+  }
+]
